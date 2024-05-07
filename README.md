@@ -13,8 +13,8 @@ Latitude vs. Humidity
 Latitude vs. Cloudiness
 Latitude vs. Wind Speed
 
-Requirement 2: Compute Linear Regression for Each Relationship
-To fulfill the second requirement, I computed the linear regression for each relationship. Separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). 
+Requirement 2: Computed Linear Regression for Each Relationship
+To fulfill the second requirement, I computed the linear regression for each relationship. Separated the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude). 
 Next, I created a series of scatter plots -
 
 - Sample scatter plot with the linear regression line.
